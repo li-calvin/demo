@@ -1,0 +1,20 @@
+p { 
+    color: blue;
+    margin:0 auto; 
+    border: 5px solid black; 
+}
+
+#main {
+    color: red;
+
+}
+
+.A { 
+    color: green;
+}
+
+h1 {
+    margin: 0 auto;
+    width: 400px;
+    padding: 30px;
+}
